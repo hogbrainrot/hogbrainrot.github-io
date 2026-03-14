@@ -1,4 +1,3 @@
-# hogbrainrot.github-io
 <html>
     <head>
         <title>Yap!</title>
